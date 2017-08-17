@@ -5,3 +5,5 @@ Olsoy et al. 2017
 Thornton et al. 2014
 
 Olsoy et al. 2014
+
+Purposeful merge conflict (github)
