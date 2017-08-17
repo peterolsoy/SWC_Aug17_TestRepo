@@ -1,3 +1,4 @@
-This is the first line of my document.
+This is the initial line of my text file.
 What happens when I add a second line?
+What about in the middle?
 Yet another small change
